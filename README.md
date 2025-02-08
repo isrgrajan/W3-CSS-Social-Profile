@@ -22,7 +22,7 @@ This page serves as a personal **landing page** where users can showcase their s
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo](https://isrgrajan.github.io/W3.CSS-Social-Profile/)
+[Click here to view the live demo](https://isrgrajan.github.io/W3-CSS-Social-Profile/)
 
 ## 📥 Installation
 
